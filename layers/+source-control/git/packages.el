@@ -131,7 +131,7 @@
         "gA" 'magit-cherry-pick-popup
         "gb" 'spacemacs/git-blame-micro-state
         "gc" 'magit-commit-popup
-        "gC" 'magit-checkout
+        "gC" 'magit-branch-and-checkout
         "gd" 'magit-diff-popup
         "gD" 'spacemacs/magit-diff-head
         "ge" 'magit-ediff-compare
